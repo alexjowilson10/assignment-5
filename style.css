@@ -250,6 +250,33 @@ section .title::after{
     background: none;
 }
 
+#about1{
+    background: #111;
+    color:#fff;
+}
+
+
+#about3{
+    background: #111;
+    color:#fff;
+}
+#about5{
+    background: #111;
+    color:#fff;
+}
+#about7{
+    background: #111;
+    color:#fff;
+}
+
+#about9{
+    background: #111;
+    color:#fff;
+}
+
+
+
+
 /* Project section styling */
 .project, .hobbies{
     color: #fff;
