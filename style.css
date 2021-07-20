@@ -125,6 +125,8 @@ html{
 
 .home .home-content .text-1{
     font-size: 40px;
+    position: relative;
+    left: 200px;
 }
 
 .home .home-content .text-2{
@@ -136,6 +138,8 @@ html{
 .home .home-content .text-3{
     font-size: 40px;
     margin: 5px 0;
+    position: relative;
+    left: 236px
 }
 
 .home .home-content .text-3 span{
